@@ -1,0 +1,12 @@
+para organizarmos os componentes, criamos módulos dentro de módulos para melhor entendimento. Exemplo:
+
+App-componet:
+    video-component
+    gallery-component
+
+video-component:
+    player-component
+    comments-component
+
+gallery-component:
+    images-component
